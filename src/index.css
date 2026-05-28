@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Red Hat Text";
+  font-size: 400 600 700;
+
+  src: url("");
+}
+
+:root {
+  --font-default-size: 16px;
+  
+}
